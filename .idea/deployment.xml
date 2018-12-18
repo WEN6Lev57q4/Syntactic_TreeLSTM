@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Copy of project-level server '78'" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="71GAT">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaow/TreeLSTM_GCN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="78">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaowen/TreeLSTM_GCN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Copy of project-level server '78'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaowen/TreeLSTM_GCN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jd">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaowen/TreeLSTM" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaowen@10.108.210.37:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaowen/TreeLSTM_GCN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
